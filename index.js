@@ -2,9 +2,8 @@ var kittens = [
   'Milo',
   'Otis',
   'Garfield'
-  ] //define your array here
+  ]; //define your array here
 
 // Add your functions and code here
-destructivelyAppendKitten.pop(Ralph)
+destructivelyAppendKitten.pop('Ralph');
   
-}

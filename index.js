@@ -2,7 +2,7 @@ var kittens = [
   'Milo',
   'Otis',
   'Garfield'
-  ] //define your array here
+  ]; //define your array here
 
 
   Function destructivelyAppenKitten(Ralph) {

@@ -4,6 +4,5 @@ var kittens = [
   'Garfield'
   ]; //define your array here
 
-// Add your functions and code here
-  kitten.pop('Ralph');
+function destructivelyAppendKitten(Ralph);
   

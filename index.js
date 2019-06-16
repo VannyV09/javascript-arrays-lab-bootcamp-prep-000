@@ -4,5 +4,5 @@ var kittens = [
   'Garfield'
   ] //define your array here
 
-  function destructivelyAppendKitten(Ralph);
+  function destructivelyAppendKitten(Ralph)
   
